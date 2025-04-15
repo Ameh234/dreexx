@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @drexx
+- 👋 Hi, I’m @dreexx
 - 👀 I’m interested in python
 - 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on 07045096514
